@@ -24,6 +24,9 @@ Integrantes:
 Nombre del proyecto:
 <br> Sprint Módulo 6: Desarrollo de aplicaciones JEE con SpringBoot.
 
+#### Ver Proyecto en Vivo
+* [https://elpierotienesueno.github.io/Sprint_M6/](https://elpierotienesueno.github.io/Sprint_M6)
+
 El proyecto consiste en la creación de un sitio web dinámico, delineado bajo el patrón de diseño Modelo Vista Controlador,
 compuesta por los siguientes elementos:
 #### Model
